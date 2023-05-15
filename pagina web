@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>¿Qué es la Ingeniería Civil?</title>
+  <style>
+    /* Estilos CSS para la página web */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    
+    h1 {
+      color: #333;
+    }
+    
+    p {
+      line-height: 1.5;
+    }
+    
+    .section {
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>¿Qué es la Ingeniería Civil?</h1>
+  
+  <div class="section">
+    <h2>Definición</h2>
+    <p>La ingeniería civil es una rama de la ingeniería que se enfoca en el diseño, construcción y mantenimiento de infraestructuras y proyectos de gran escala. Los ingenieros civiles aplican principios científicos y técnicas de ingeniería para desarrollar soluciones que mejoren la calidad de vida de las personas y el entorno en el que vivimos.</p>
+  </div>
+  
+  <div class="section">
+    <h2>Áreas de especialización</h2>
+    <ul>
+      <li>Construcción de edificios y estructuras</li>
+      <li>Diseño de carreteras y puentes</li>
+      <li>Gestión de recursos hídricos</li>
+      <li>Planeamiento urbano y desarrollo sostenible</li>
+      <li>Geotecnia y mecánica de suelos</li>
+      <li>Transporte y vías de comunicación</li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>Habilidades requeridas</h2>
+    <ul>
+      <li>Capacidad analítica y resolución de problemas</li>
+      <li>Conocimientos en matemáticas y física</li>
+      <li>Competencias en diseño y modelado</li>
+      <li>Habilidades de gestión de proyectos</li>
+      <li>Capacidad de trabajo en equipo</li>
+      <li>Conocimientos en normativas y regulaciones de construcción</li>
+    </ul>
+  </div>
+  
+  <div class="section">
+    <h2>Futuro de la Ingeniería Civil</h2>
+    <p>La ingeniería civil es una disciplina en constante evolución, adaptándose a los nuevos desafíos y avances tecnológicos. Con el crecimiento de las ciudades, el desarrollo sostenible y la necesidad de infraestructuras más eficientes, los ingenieros civiles desempeñan un papel fundamental en la planificación y ejecución de proyectos que impactan en nuestra sociedad y medio ambiente.</p>
+  </div>
+  
+  <footer>
+    <p>© 2023 Sitio web sobre Ingeniería Civil. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
